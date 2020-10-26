@@ -1,6 +1,6 @@
 # Obfuscated-Text-Classification-
 
-The problem is to build a model which can classify an obfuscated text. 
+The problem is to build a model which can classify an obfuscated text. This is a multiclass classification problem.
 
 First a baselin model with different models (Multinomial Naive Bayes, XGBoost and FNN) is built. Then different Deep Learning methods including LSTM, Bidirectional LSTM and CNNs are tried to achieve better performance than the baseline. 
 
